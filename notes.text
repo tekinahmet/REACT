@@ -1,5 +1,9 @@
 rafce
 
-<React.Fragment></React.Fragment>
+<React.Fragment> </React.Fragment>
 
-klasik if jsx içinde kullanılmaz, ternary kullanılır
+klasik if jsx içinde kullanılmaz, ternary short circuit kullanılır
+
+npm i moment
+
+ctrl space to import

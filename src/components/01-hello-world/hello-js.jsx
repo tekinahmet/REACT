@@ -1,4 +1,5 @@
 const HelloJs = () => {
-  return <h5>Hello JS</h5>;
+	return <h5>Hello JS</h5>;
 };
+
 export default HelloJs;
